@@ -9,7 +9,10 @@
 
 ## Eaglercrack Developers
 [Proofr](https://github.com/proofr)
+
 [Rimm](https://github.com/rimmvb)
+
 [player_k12](https://github.com/player-k12)
+
 # [ Main Eaglercrack Archive Website](https://eaglercrack.github.io)
 # [Main Eaglercrack Archive Repository](https://github.com/eaglercrack/eaglercrack.github.io)
