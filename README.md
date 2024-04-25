@@ -7,5 +7,9 @@
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/eaglercrack/eaglercrack.github.io)
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/eaglercrack/eaglercrack.github.io)
 
-
+## Eaglercrack Developers
+[Proofr](https://github.com/proofr)
+[Rimm](https://github.com/rimmvb)
+[Playerk12](https://github.com/playerk12)
+# [ Main Eaglercrack Archive Website](https://eaglercrack.github.io)
 # [Main Eaglercrack Archive Repository](https://github.com/eaglercrack/eaglercrack.github.io)
