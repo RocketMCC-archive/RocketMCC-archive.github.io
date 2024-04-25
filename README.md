@@ -1,5 +1,5 @@
 # EaglercrackX - The biggest eaglercraft archive.
-
+# [JOIN THE DISCORD](https://dsc.gg/eaglercrackx)
 ## FORK / DOWNLOAD (the entire repo is like 5 gigs) / DEPLOY this repository before it gets DMCA
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/eaglercrack/eaglercrack.github.io)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Feaglercrack%2Feaglercrack.github.io)
@@ -14,5 +14,8 @@
 
 **[player_k12](https://github.com/player-k12)**
 
-# [ Main Eaglercrack Archive Website](https://eaglercrack.github.io)
-# [Main Eaglercrack Archive Repository](https://github.com/eaglercrack/eaglercrack.github.io)
+### [ Main Eaglercrack Archive Website](https://eaglercrack-archive.github.io)
+### [Main Eaglercrack Archive Repository](https://github.com/eaglercrack-archive/eaglercrack-archive.github.io)
+
+# [ Main Eaglercrack Website](https://eaglercrack.github.io)
+# [Main Eaglercrack Repository](https://github.com/eaglercrack/eaglercrack.github.io)
