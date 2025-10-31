@@ -9,7 +9,9 @@
 
 
 # This is a fork of eaglercrack-archive
-# ROCKETMCC-archive - The biggest eaglercraft archive.
-
+# RocketMCC-archive - The biggest eaglercraft archive.
+# [JOIN FORUM](https://eaglercraftarchive.freeflarum.com)
 ROCKETMCC-archive is a fork of eaglercrack-archive, ROCKETMCC archive was created becuase eaglercrack-archive was discontinued, ROCKETMCC archive will be updated when i find out about new a client or a client that got updated
-## Credits for ROCKETMCC-archive
+
+## Credits for RocketMCC-archive
+**[RocketMCC also known as boss22cat90](https://github.com/RocketMCC)**
